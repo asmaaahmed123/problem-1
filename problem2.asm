@@ -8,8 +8,8 @@ n2 Dword ?
 n3 Dword ?
 
 x BYTE "Enter First Number", 0
-y BYTE "Enter First Number", 0
-z BYTE "Enter First Number", 0
+y BYTE "Enter Second Number", 0
+z BYTE "Enter Third Number", 0
 string BYTE 40 Dup(?), 0
 result BYTE "The Result is:", 0
 res BYTE 11 Dup(?), 0
